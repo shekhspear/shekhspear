@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shekhspear
 - 👀 I’m interested in software programming and software QA
-- 🌱 I’m currently learning Android programming and Kotlin
-- 💞️ I’m looking to collaborate on either of them
+- 🌱 I’m currently learning to build a web app using Flask
+- 💞️ I’m Happy to collaborate
 - 📫 How to reach me - find me on Linkedin - https://www.linkedin.com/in/shekharkarande/
 
 <!---
